@@ -9,3 +9,9 @@ Git checkout -> podremos ir a un commit en específico, agregando el código que
 Git log > commit.txt -> escencial para guardar el historial de commits en un archivo
 
 ( La mayoría maneja parámetros, el cual nos ayuda para mejores opciones dentro de git)
+
+Git Reset --soft -> Elimina el commit pero deja el codigo activo
+Git reset --hard -> Elimina el commit asi como nuestro codigo
+
+
+Working area = Nuestro codigo
