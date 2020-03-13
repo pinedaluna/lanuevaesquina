@@ -1,0 +1,11 @@
+Git commands
+
+Git init -> una vez dentro de el proyecto, ejecutamos está sentencia, para que git lo reconozca 
+Git status -> veremos qué archivos están cargados, pero aún no se suben
+Git add -> podremos subir los archivos cargados.
+Git commit -m -> agregamos un comentario, el mismo que veremos en los logos
+Git log -> nos proporciona el historial de todos los commit que hemos hecho
+Git checkout -> podremos ir a un commit en específico, agregando el código que aparece en los logs
+Git log > commit.txt -> escencial para guardar el historial de commits en un archivo
+
+( La mayoría maneja parámetros, el cual nos ayuda para mejores opciones dentro de git)
