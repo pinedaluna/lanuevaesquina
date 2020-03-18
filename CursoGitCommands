@@ -15,3 +15,27 @@ Git reset --hard -> Elimina el commit asi como nuestro codigo
 
 
 Working area = Nuestro codigo
+
+git help [comando] -> DOCUMENTACION SOBRE GIT
+
+
+================ Creacion de ramas ================
+
+git branch [nombre] -> Creacion de una nueva rama
+		 -D [nombre] -> Elimina la rama actual
+		 -b [nombre] -> Mover el branch actual a esta rama
+
+git checkout -> movernos entre ramas
+
+=============== Funciones ===================
+Fast-Forward
+Manual-Marge
+
+git merge [rama]
+
+
+=============== GitHub ==================
+git clone -> Nos sirve para clonar un proyecto
+
+git remote -> vincula nuestro proyecto local con nuestro proyecto remoto
+git remote add origin - > ???????????????
